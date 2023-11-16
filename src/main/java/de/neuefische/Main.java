@@ -2,6 +2,10 @@ package de.neuefische;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello Team");
+
+        int x = 3;
+        int y = 4;
+
+        System.out.println(x + y);
     }
 }
