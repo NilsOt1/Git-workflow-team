@@ -2,10 +2,9 @@ package de.neuefische;
 
 public class Main {
     public static void main(String[] args) {
+ SayGoodbye
+        System.out.println("Say Goodbye");
 
-        int x = 3;
-        int y = 4;
-
-        System.out.println(x + y);
+ main
     }
 }
